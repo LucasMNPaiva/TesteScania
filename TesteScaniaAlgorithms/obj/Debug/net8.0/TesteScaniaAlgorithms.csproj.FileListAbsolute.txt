@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\TesteScania\TesteScaniaAlgorithms\bin\Debug\net8.0\TesteScaniaAlgorithms.exe
+C:\Users\Lucas\source\repos\TesteScania\TesteScaniaAlgorithms\bin\Debug\net8.0\TesteScaniaAlgorithms.deps.json
+C:\Users\Lucas\source\repos\TesteScania\TesteScaniaAlgorithms\bin\Debug\net8.0\TesteScaniaAlgorithms.runtimeconfig.json
+C:\Users\Lucas\source\repos\TesteScania\TesteScaniaAlgorithms\bin\Debug\net8.0\TesteScaniaAlgorithms.dll
+C:\Users\Lucas\source\repos\TesteScania\TesteScaniaAlgorithms\bin\Debug\net8.0\TesteScaniaAlgorithms.pdb
+C:\Users\Lucas\source\repos\TesteScania\TesteScaniaAlgorithms\obj\Debug\net8.0\TesteScaniaAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\TesteScania\TesteScaniaAlgorithms\obj\Debug\net8.0\TesteScaniaAlgorithms.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\TesteScania\TesteScaniaAlgorithms\obj\Debug\net8.0\TesteScaniaAlgorithms.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\TesteScania\TesteScaniaAlgorithms\obj\Debug\net8.0\TesteScaniaAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\TesteScania\TesteScaniaAlgorithms\obj\Debug\net8.0\TesteScaniaAlgorithms.dll
+C:\Users\Lucas\source\repos\TesteScania\TesteScaniaAlgorithms\obj\Debug\net8.0\refint\TesteScaniaAlgorithms.dll
+C:\Users\Lucas\source\repos\TesteScania\TesteScaniaAlgorithms\obj\Debug\net8.0\TesteScaniaAlgorithms.pdb
+C:\Users\Lucas\source\repos\TesteScania\TesteScaniaAlgorithms\obj\Debug\net8.0\TesteScaniaAlgorithms.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\TesteScania\TesteScaniaAlgorithms\obj\Debug\net8.0\ref\TesteScaniaAlgorithms.dll

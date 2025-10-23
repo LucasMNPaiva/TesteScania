@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Lista (título + detalhes ao clicar)</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Posts</h1>
+    </header>
+
+    <div id="status" class="status" aria-live="polite"></div>
+
+    <div id="error" class="error" hidden></div>
+    <div id="empty" class="empty" hidden>Nenhum item para exibir.</div>
+
+    <div id="list" class="list" aria-live="polite"></div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
